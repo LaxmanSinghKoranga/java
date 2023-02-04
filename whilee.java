@@ -8,6 +8,11 @@ public class whilee {
             System.out.println(i);
            
         }
+        while(i<=5){
+            i++;
+            System.out.println(i);
+           
+        }
         // i++; cant do this cc it will be infinite loop 
         
     }
